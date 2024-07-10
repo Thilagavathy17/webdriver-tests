@@ -1,2 +1,4 @@
 New file added
-New line added for merging
+New line added for merging in newdev branch
+New line added in devbranch
+

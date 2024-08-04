@@ -32,7 +32,7 @@ public class LoginFirefox {
 		//dc.setVersion("120.0");
 		dc.setPlatform(Platform.LINUX);
 
-		RemoteWebDriver driver = new RemoteWebDriver(new URL("http://20.244.37.50:4444/ui/wd/hub"), dc);
+		RemoteWebDriver driver = new RemoteWebDriver(new URL("http://20.244.37.50:4444/wd/hub"), dc);
 
 		//ChromeDriver driver = new ChromeDriver();
 
